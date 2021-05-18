@@ -1,4 +1,4 @@
-# Python API Homework - What's the Weather Like?
+# Python API  - What's the Weather Like?
 
 ## Background
 
@@ -10,17 +10,7 @@ But, if pressed, how would you **prove** it?
 
 ![Equator](Images/equatorsign.png)
 
-### Before You Begin
 
-1. Create a new repository for this project called `python-api-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for both of the  Python Challenges. Use folder names corresponding to the challenges: **WeatherPy**.
-
-4. Inside the folder that you just created, add new files called `WeatherPy.ipynb` and `VacationPy.ipynb`. These will be the main scripts to run for each analysis.
-
-5. Push the above changes to GitHub.
 
 ## Part I - WeatherPy
 
@@ -85,15 +75,7 @@ Now let's use your skills in working with weather data to plan future vacations.
 
   ![hotel map](Images/hotel_map.png)
 
-As final considerations:
-
-* Create a new GitHub repository for this project called `API-Challenge` (note the kebab-case). **Do not add to an existing repo**
-* You must complete your analysis using a Jupyter notebook.
-* You must use the Matplotlib or Pandas plotting libraries.
-* For Part I, you must include a written description of three observable trends based on the data.
-* For Part II, you must include a screenshot of the heatmap you create and include it in your submission.
-* You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
-* For max intensity in the heat map, try setting it to the highest humidity found in the data set.
+A
 
 ## Hints and Considerations
 
@@ -117,6 +99,3 @@ As final considerations:
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
